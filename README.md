@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+---
+<div>
+<img align="left" height="165px" src="https://github-readme-stats.vercel.app/api?username=tonytran97&show_icons=true&theme=vue-dark" />
+<img align="right"  height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonytran97&layout=compact&theme=vue-dark" />
+</div>
+
 <!--
 **tonytran97/tonytran97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
