@@ -3,7 +3,7 @@
 ---
 <div>
 <img align="left" height="165px" src="https://github-readme-stats.vercel.app/api?username=tonytran97&show_icons=true&theme=vue-dark" />
-<img align="left"  height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonytran97&layout=compact&theme=vue-dark" />
+<img align="left"  height="165px" width="450px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonytran97&layout=compact&theme=vue-dark" />
 </div>
 
 <!--
